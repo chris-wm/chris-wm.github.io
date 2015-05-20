@@ -1,6 +1,13 @@
 body{
     background-color: red;
 }
+.mainmenu {
+	background-color: #fff;
+	border: 1px solid #888;
+	min-height: 40px;
+	font-family: 'Open Sans', sans-serif;
+	color:#FFF;
+}
 #menu, #menu ul {
 	margin: 0;
 	padding: 0;
