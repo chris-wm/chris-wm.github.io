@@ -12,7 +12,7 @@
 	/*max-height: 0px;*/
 }
 #menu li.open > ul {
-	max-height: 9999px;
+	/*max-height: 9999px;*/
 }
 #menu a.parent:before {
 	font-family: FontAwesome;
