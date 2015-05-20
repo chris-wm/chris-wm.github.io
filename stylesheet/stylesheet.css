@@ -1,7 +1,7 @@
 #menu, #menu ul {
-/*	margin: 0;
+	margin: 0;
 	padding: 0;
-	list-style: none;*/
+	list-style: none;
 }
 #menu ul {
 	margin-left: 20px;
@@ -9,10 +9,10 @@
   	transition: max-height 0.5s ease-in-out;
 }
 #menu li > ul {
-	/*max-height: 0px;*/
+	max-height: 0px;
 }
 #menu li.open > ul {
-	/*max-height: 9999px;*/
+	max-height: 9999px;
 }
 #menu a.parent:before {
 	font-family: FontAwesome;
